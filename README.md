@@ -7,6 +7,7 @@ Steps:
 
 1) Register yourself in the Assetic Portal
 2) Store your username and password in the Admin.py
+3) Complete the URLs in Admin.py by changing the 'yourenv' to your actual URL environment name
 3) Run the Assetic_Token_Class.py
 4) Add another function to call from within the get_assets function to do something with the returned data.
 
